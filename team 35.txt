@@ -1,0 +1,10 @@
+linux
+wordpress
+android
+7zip
+brave
+wikepedia
+gimp
+version
+liberoffice
+repository
